@@ -1,7 +1,7 @@
 #lang racket/base
 
-(provide mc-admin-role-id
+(provide mc-core-staff-role-id
 	 mc-server-id)
 
-(define mc-admin-role-id "709937012584743003")
-(define mc-server-id "708041672961032246")
+(define mc-core-staff-role-id "708421344936722488")
+(define mc-server-id "708421344936722482")

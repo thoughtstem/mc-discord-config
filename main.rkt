@@ -2,7 +2,8 @@
 
 (provide mc-core-staff-role-id
 	 mc-badge-checker-role-id
-	 mc-server-id)
+	 mc-server-id
+	 mc-coach-space-station-voice-channel-id)
 
 (define mc-core-staff-role-id "708421344936722488")
 (define mc-badge-checker-role-id "713130957502152804")
